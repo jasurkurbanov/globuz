@@ -59,11 +59,11 @@ Nomzodlar **Schengen hududiga** kiruvchi barcha davlatlar va ularning poytaxtlar
 2. **Kanada**
 
 #### **1.4.4 Okeaniya davlatlari va ularning poytaxtlari**  
-1. **Avstraliya**=
-2. **Yangi Zelandiya**=
+1. **Avstraliya**
+2. **Yangi Zelandiya**
 
 #### **1.4.5 Buyuk Britaniya**  
-1. **Birlashgan Qirollik** va uning tarkibiga kiruvchi davlatlar va ularning poytaxtlari
+1. **Buyuk Britaniya** va uning tarkibiga kiruvchi davlatlar va ularning poytaxtlari
 
 **Eslatma**: Ushbu geografik ma’lumotlar kompaniyaning kunlik ish faoliyatida kerak bo‘lishi mumkin. Nomzodlardan ushbu davlatlarning poytaxtlarini yaxshi bilish talab etiladi. 
 
