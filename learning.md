@@ -16,9 +16,9 @@ Nomzodlar kompaniyada ishlash uchun zarur bo‘lgan asosiy ko‘nikmalarni o‘z
 
 ### 1.1 Elektron pochta
 - **Yangi email akkaunt yaratish**:
-  - Elektron manzilni qayd etish.
+  - Yangi gmail akkaunt yaratish.
   - Parol o‘rnatish va xavfsizlik sozlamalarini tushunish.
-- **Gmail’dan foydalanish**:
+- **Gmail/Outlook’dan foydalanish**:
   - Hujjatlarni ilova qilish, jo‘natish va qabul qilish.
   - Pochta qutisini tozalash va tartiblash.
 - [Outlook ochish](https://www.youtube.com/watch?v=3gHiYObPobM)
@@ -29,14 +29,14 @@ Nomzodlar kompaniyada ishlash uchun zarur bo‘lgan asosiy ko‘nikmalarni o‘z
   - Matn yozish, formatlash va sharh kiritish.
   - Hujjatlarni ulashish va eksport qilish.
 - **Google Slides**:
-  - Prezentatsiya tayyorlash, rasm va animatsiyalar qo‘shish.
+  - Rasm bilan ishlash va rasmlardan pdf hujjat yaratish
 - **Google Sheets**:
   - Asosiy formulalar: `SUM`, `COUNT`.
   - Ma’lumotlarni tartiblash va filtrlash.
 
 ### 1.3 Hujjatlar bilan ishlash
 - **Google Drive**:
-  - Hujjatlarni yuklash, tashkil qilish va ulashish.
+  - Hujjatlarni yuklash va ulashish.
 - **PDF fayllar**:
   - PDF’ni birlashtirish, bo‘lish va hajmini kamaytirish.
 - **ZIP arxivlar**:
