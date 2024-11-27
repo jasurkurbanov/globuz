@@ -21,8 +21,8 @@ Nomzodlar kompaniyada ishlash uchun zarur bo‘lgan asosiy ko‘nikmalarni o‘z
 - **Gmail’dan foydalanish**:
   - Hujjatlarni ilova qilish, jo‘natish va qabul qilish.
   - Pochta qutisini tozalash va tartiblash.
-- [Outlook ochish] - (https://www.youtube.com/watch?v=3gHiYObPobM)
-- [Gmail ochish] - (https://www.youtube.com/watch?v=OrPkRv52Z5A)
+- [Outlook ochish](https://www.youtube.com/watch?v=3gHiYObPobM)
+- [Gmail ochish](https://www.youtube.com/watch?v=OrPkRv52Z5A)
 
 ### 1.2 Google Workspace
 - **Google Docs**:
