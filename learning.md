@@ -15,12 +15,14 @@ Dastur ikki darajadan iborat:
 Nomzodlar kompaniyada ishlash uchun zarur bo‘lgan asosiy ko‘nikmalarni o‘zlashtiradilar. Ushbu bosqichning asosiy maqsadi raqamli ko‘nikmalarni rivojlantirish va geografik bilimlarni mustahkamlashdir.  
 
 ### 1.1 Elektron pochta
-- **Gmail yaratish**:
+- **Yangi email akkaunt yaratish**:
   - Elektron manzilni qayd etish.
   - Parol o‘rnatish va xavfsizlik sozlamalarini tushunish.
 - **Gmail’dan foydalanish**:
   - Hujjatlarni ilova qilish, jo‘natish va qabul qilish.
   - Pochta qutisini tozalash va tartiblash.
+- [Outlook ochish] - (https://www.youtube.com/watch?v=3gHiYObPobM)
+- [Gmail ochish] - (https://www.youtube.com/watch?v=OrPkRv52Z5A)
 
 ### 1.2 Google Workspace
 - **Google Docs**:
