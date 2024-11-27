@@ -46,8 +46,6 @@ Nomzod har bir mamlakat va uning poytaxtini bilishi zarur. Quyida asosiy mamlaka
 
 #### **1.4.1 Schengen davlatlari va ularning poytaxtlari**  
 Nomzodlar **Schengen hududiga** kiruvchi barcha davlatlar va ularning poytaxtlari
-
-## Foydali manbalar
 - [Auswärtiges Amt - FAQ on Schengen Countries](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/17-schengenstaaten/606722)
 - [European Commission - Press Release](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1722)
 
