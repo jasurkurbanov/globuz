@@ -46,26 +46,13 @@ Nomzodlar kompaniyada ishlash uchun zarur bo‘lgan asosiy ko‘nikmalarni o‘z
 ### 1.4 Geografik bilimlar  
 Nomzod har bir mamlakat va uning poytaxtini bilishi zarur. Quyida asosiy mamlakatlar va ularning poytaxtlari ro‘yxati keltirilgan.  
 
-#### **1.4.1 Schengen davlatlari va ularning poytaxtlari**  
-Nomzodlar **Schengen hududiga** kiruvchi barcha davlatlar va ularning poytaxtlari
+#### **1.4.1 Schengen davlatlari nechta**  
+Nomzodlar **Schengen hududiga** kiruvchi barcha davlatlarni bilish, nechta va ular qaysilar
 - [Auswärtiges Amt - FAQ on Schengen Countries](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/17-schengenstaaten/606722)
 - [European Commission - Press Release](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1722)
 
-#### **1.4.2 Osiyo davlatlari va ularning poytaxtlari**  
-1. **Yaponiya**   
-2. **Xitoy**  
-3. **Janubiy Koreya**  
-
-#### **1.4.3 Shimoliy Amerika davlatlari va ularning poytaxtlari**  
-1. **AQSh**
-2. **Kanada**
-
-#### **1.4.4 Okeaniya davlatlari va ularning poytaxtlari**  
-1. **Avstraliya**
-2. **Yangi Zelandiya**
-
-#### **1.4.5 Buyuk Britaniya**  
-1. **Buyuk Britaniya** va uning tarkibiga kiruvchi davlatlar va ularning poytaxtlari
+#### **1.4.2 Buyuk Britaniya**  
+**Buyuk Britaniya** va uning tarkibiga kiruvchi davlatlari
 
 **Eslatma**: Ushbu geografik ma’lumotlar kompaniyaning kunlik ish faoliyatida kerak bo‘lishi mumkin. Nomzodlardan ushbu davlatlarning poytaxtlarini yaxshi bilish talab etiladi. 
 
